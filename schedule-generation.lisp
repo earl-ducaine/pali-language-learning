@@ -5,7 +5,7 @@
 (defparameter prompts
 
   '(introduction
-    "Listen to this spanish conversation."
+    "Listen to this Pali conversation."
     excuse-me
     "In the next few minutes you will learn not only to understand this
      conversation but to take part part in it yourself. Imagine an
