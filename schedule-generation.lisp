@@ -11,13 +11,14 @@
      conversation but to take part part in it yourself. Imagine an
      American man sitting next to a Pali speaking woman. He wants to
      begin a conversation, so he says:"
-    "This is the Pali word meaning 'excuse me'. You will hear many of
-     the words in this course repeated many times, the goal is to
+    "This is the Pali word meaning 'excuse me'. You will hear many of the
+     words in this course repeated several times, the goal is to
      pronounce them exactly like the speakers, as though your talking
      directly to them. The word will be repeated, part-by-part. You
-     are to repeate each part aloud after each segment."
+     should repeate each part aloud after each segment."
     "Did the sylable sound like the speaker? Repeat again: "
-    "Did you not that vowel sounds like the english 'ing' but more nasal?"
+    "Did you note that vowel sounds like the english 'ing' but with a more
+     nasal sound?"
     "Note that the 'H' is clearly decernable, as in the english word 'outhouse'."
     "Continue repeating:"
     "How do you say Excuse me in Pali?"
@@ -25,17 +26,17 @@
     "How do you say 'excuse me' in Pali?"
     "How do you address a woman in Pali?"
     "Again say the word, Ms."
-    "How do you say Excuse me?"
+    "How do you say: 'Excuse me'?'"
     "Say: 'Excuse me Ms.'"
     do-you-undestand-english
     "She looks at you. Ask her if she understands English."
-    "This is new word, added to the language in modern times. Listen and
+    "This is a new word, added to the language in modern times. Listen and
      reapeat the word, 'English'."
     "Say: English"
-    "Here's how ask: 'Do you know'. Not the rising rising intotanion at
-    the end. We don't know what tone was used for questions in Pali,
-    or even if questions were marked by a tone inflection. But we will
-    use a conventional, European rising tone for questions."
+    "Here's how ask: 'Do you know'. Note the rising rising intotanion at
+     the end. We don't know what tone was used for questions in Pali,
+     or even if questions were marked by a tone inflection. But we
+     will use a conventional, European rising tone for questions."
     "Listen and repeat, part by part: 'you know'."
     "Say: 'you know'."
     "How do you say: 'English'."
@@ -45,7 +46,6 @@
     "Excuse me, do you understand Pali?"
     no-i-dont-understand
     "Listen and repeat her reply:"
-
     ))
 
 (defparameter conversations
